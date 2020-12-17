@@ -1,2 +1,0 @@
-# orders
-ordering application
